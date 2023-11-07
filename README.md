@@ -1,5 +1,5 @@
 ### About
-I am a Research Software Engineer and full-stack web developer. I design and implement solutions to help teams understand complex datasets and collaborate across many fields of study. My collaborators have included physical scientists, biologists, and automative engineers, among many others!
+I am a Research Software Engineer and full-stack web developer. I design and implement solutions to help teams understand complex datasets and collaborate across many fields of study. My collaborators have included physical scientists, biologists, and automotive engineers, among many others!
 
 ### A few previous projects
 Though I often work in small teams, we have been fortunate to leverage our strengths into tools with wide impact.
@@ -14,3 +14,8 @@ Though I often work in small teams, we have been fortunate to leverage our stren
 * Bringing software engineering best practices into the R&D space (a few [example presentations](https://github.com/abought/slides/tree/gh-pages/csg))
 * Leveraging new technologies to foster better insights. I like learning something new!
 * Combining metrics and user insights to deliver the right features at the right time
+
+### Things I enjoy
+* Working with great collaborators and learning something new
+* Choosing the right technologies to deliver impactful solutions
+* Making things a little better every day: software testing, usability, and driving continuous improvement across teams
