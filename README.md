@@ -1,5 +1,7 @@
 ### About
-I am a Research Software Engineer and full-stack web developer. I design and implement solutions to help teams understand complex datasets and collaborate across many fields of study. My collaborators have included physical scientists, biologists, and automotive engineers, among many others!
+I am a Research Software Engineer and full-stack web developer. I design and implement solutions to help teams understand complex datasets and collaborate across many fields of study. My collaborators have included physical scientists, biologists, and automotive engineers, among many others.
+
+External: [Publications](https://scholar.google.com/citations?user=0KqYlQkAAAAJ&hl=en) - [LinkedIn](https://www.linkedin.com/in/abought)
 
 ### A few previous projects
 I have been fortunate to work on a number of small teams with outsized impact:
@@ -9,11 +11,13 @@ I have been fortunate to work on a number of small teams with outsized impact:
 * Open Science Framework / [OSF Preprints](https://osf.io/preprints/): Upload articles and datasets to share and get a DOI. Data sharing and collaboration features.
 * Genes for Good, MIT Lookit, and others: Recruit diverse audiences nationwide to help contribute to better, more representative research. Surveys, videos, and other capabilities
 
+For more projects, browse the list of [public repositories](https://github.com/abought?tab=repositories) I have worked on!
 
 ### Ask me about
-* Bringing software engineering best practices into the R&D space (a few [example presentations](https://github.com/abought/slides/tree/gh-pages/csg))
+* Bringing software engineering best practices into the R&D space (a few [example presentations](https://github.com/abought/slides/))
 * Leveraging new technologies to foster better insights. I like learning something new!
 * Combining metrics and user insights to deliver the right features at the right time
+* Architecture (front and backend)
 
 ### Things I enjoy
 * Working with great collaborators and learning something new
