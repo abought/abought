@@ -1,5 +1,5 @@
 ### About
-I am a Research Software Engineer and full-stack web developer. I design and implement solutions to help teams understand complex datasets and collaborate across many fields of study. My collaborators have included physical scientists, biologists, and automotive engineers, among many others.
+I am a Research Software Engineer and full-stack web developer. I design and implement solutions to help teams understand complex datasets and collaborate across many fields of study. My collaborators have included physical scientists, biologists, and automotive engineers, among many others. And the technology stacks I have worked with are almost as diverse!
 
 External: [Publications](https://scholar.google.com/citations?user=0KqYlQkAAAAJ&hl=en) - [LinkedIn](https://www.linkedin.com/in/abought)
 
